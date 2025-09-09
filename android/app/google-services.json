@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041559940368",
+    "project_id": "plasonisis",
+    "storage_bucket": "plasonisis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041559940368:android:58ba58f18e09722ee94995",
+        "android_client_info": {
+          "package_name": "com.example.plasonisis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFsuPAm2vbENPkkIIjNJUCWTDV4Nh-KOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
