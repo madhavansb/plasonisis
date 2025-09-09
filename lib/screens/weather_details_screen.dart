@@ -45,7 +45,7 @@ class _WeatherDetailsScreenState extends State<WeatherDetailsScreen> {
       _weatherData = null;
     });
 
-    const String apiKey = '2ff5c46111e476da27a91bf4bae7cd4c'; // Your OpenWeatherMap API key
+    const String apiKey = 'you_api_key'; // Your OpenWeatherMap API key
     // Add ',IN' to ensure results are prioritized for India
     final String apiUrl =
         'https://api.openweathermap.org/data/2.5/weather?q=$cityName,IN&appid=$apiKey&units=metric';
